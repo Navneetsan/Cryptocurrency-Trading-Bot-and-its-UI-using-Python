@@ -1,0 +1,863 @@
+2022-02-07 16:52:49,438 INFO :: This message just shows basic information
+2022-02-07 16:52:49,438 WARNING :: This message is about something you should pay attention to
+2022-02-07 16:52:49,438 ERROR :: This message helps to debug an error that occurred in your program
+2022-02-07 17:03:46,533 INFO :: This message just shows basic information
+2022-02-07 17:03:46,533 WARNING :: This message is about something you should pay attention to
+2022-02-07 17:03:46,534 ERROR :: This message helps to debug an error that occurred in your program
+2022-02-07 17:03:46,534 INFO :: Hello from Binance connector
+2022-03-04 02:38:38,631 INFO :: Binance futures client successfully initialized
+2022-03-04 02:39:24,136 INFO :: Binance futures client successfully initialized
+2022-03-04 02:40:20,393 INFO :: Binance futures client successfully initialized
+2022-03-04 02:41:39,470 INFO :: Binance futures client successfully initialized
+2022-03-04 02:42:03,084 INFO :: Binance futures client successfully initialized
+2022-03-04 02:43:35,653 INFO :: Binance futures client successfully initialized
+2022-03-04 02:45:08,571 INFO :: Binance futures client successfully initialized
+2022-03-04 02:45:23,209 INFO :: Binance futures client successfully initialized
+2022-03-04 02:45:53,172 INFO :: Binance futures client successfully initialized
+2022-03-04 02:46:39,280 INFO :: Binance futures client successfully initialized
+2022-03-04 02:47:28,961 INFO :: Binance futures client successfully initialized
+2022-03-04 02:47:40,072 INFO :: Binance futures client successfully initialized
+2022-03-04 02:50:00,248 INFO :: Binance futures client successfully initialized
+2022-03-04 02:50:44,805 INFO :: Binance futures client successfully initialized
+2022-03-04 02:52:31,073 INFO :: Binance futures client successfully initialized
+2022-03-04 02:58:36,217 INFO :: Binance futures client successfully initialized
+2022-03-04 02:59:44,819 INFO :: Binance futures client successfully initialized
+2022-03-04 02:59:56,585 INFO :: Binance futures client successfully initialized
+2022-03-04 03:02:48,252 INFO :: Binance futures client successfully initialized
+2022-03-04 03:03:31,334 INFO :: Binance futures client successfully initialized
+2022-03-04 03:03:56,278 INFO :: Binance futures client successfully initialized
+2022-03-04 03:04:08,618 INFO :: Binance futures client successfully initialized
+2022-03-04 03:06:06,157 INFO :: Binance futures client successfully initialized
+2022-03-04 03:06:06,917 ERROR :: Error while making GET request tp /fapi/v1/klines: {'code': -1120, 'msg': 'Invalid interval.'} (error code 400)
+2022-03-04 03:06:51,424 INFO :: Binance futures client successfully initialized
+2022-03-04 03:10:47,595 INFO :: Binance futures client successfully initialized
+2022-03-04 03:11:03,073 INFO :: Binance futures client successfully initialized
+2022-03-04 03:11:18,642 INFO :: Binance futures client successfully initialized
+2022-03-04 03:45:09,378 INFO :: Binance futures client successfully initialized
+2022-03-04 03:48:44,516 INFO :: Binance futures client successfully initialized
+2022-03-04 03:49:16,789 INFO :: Binance futures client successfully initialized
+2022-03-04 03:50:02,932 INFO :: Binance futures client successfully initialized
+2022-03-04 03:50:46,341 INFO :: Binance futures client successfully initialized
+2022-03-04 03:51:16,028 INFO :: Binance futures client successfully initialized
+2022-03-04 03:53:40,763 INFO :: Binance futures client successfully initialized
+2022-03-04 04:00:09,256 INFO :: Binance futures client successfully initialized
+2022-03-04 04:03:15,271 INFO :: Binance futures client successfully initialized
+2022-03-04 04:03:41,035 INFO :: Binance futures client successfully initialized
+2022-03-04 04:04:29,341 INFO :: Binance futures client successfully initialized
+2022-03-04 04:06:41,765 INFO :: Binance futures client successfully initialized
+2022-03-04 13:38:48,644 INFO :: Binance futures client successfully initialized
+2022-03-04 13:40:59,468 INFO :: Binance futures client successfully initialized
+2022-03-04 13:41:20,403 INFO :: Binance futures client successfully initialized
+2022-03-04 13:42:08,511 INFO :: Binance futures client successfully initialized
+2022-03-04 13:42:31,150 INFO :: Binance futures client successfully initialized
+2022-03-04 13:42:45,582 INFO :: Binance futures client successfully initialized
+2022-03-04 15:50:02,046 INFO :: Binance futures client successfully initialized
+2022-03-04 16:23:48,572 INFO :: Binance futures client successfully initialized
+2022-03-04 16:25:05,811 INFO :: Binance futures client successfully initialized
+2022-03-04 16:26:01,624 INFO :: Binance futures client successfully initialized
+2022-03-04 20:00:34,023 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000022BC0568130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:00:34,023 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000022BC0568130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:00:34,029 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000022BC0568130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:00:34,029 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000022BC0568130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:01:33,364 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000020813A48130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:01:33,364 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000020813A48130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:02:24,930 INFO :: Binance futures client successfully initialized
+2022-03-04 20:02:25,044 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000002A926218130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:02:46,773 INFO :: Binance futures client successfully initialized
+2022-03-04 20:02:47,462 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x00000221223E8130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:02:47,462 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x00000221223E8130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:03:58,609 INFO :: Binance futures client successfully initialized
+2022-03-04 20:05:38,166 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000026AE2528130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:05:38,166 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000026AE2528130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:05:38,335 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000026AE2528130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:05:38,335 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000026AE2528130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:06:35,996 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001FDB91A8130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:06:35,996 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000001FDB91A8130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:06:36,035 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001FDB91A8130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:06:36,035 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000001FDB91A8130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:07:01,099 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001D7E0417730>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:07:01,100 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000001D7E0417730>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:07:01,105 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x000001D7E0417730>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:07:01,106 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x000001D7E0417730>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:09:13,254 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000025A9CAB8130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:09:13,255 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000025A9CAB8130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:09:13,289 ERROR :: error from callback <bound method BinanceFuturesClient.on_open of <connectors.binance_futures.BinanceFuturesClient object at 0x0000025A9CAB8130>>: BinanceFuturesClient.on_open() takes 1 positional argument but 2 were given
+2022-03-04 20:09:13,289 ERROR :: error from callback <bound method BinanceFuturesClient.on_error of <connectors.binance_futures.BinanceFuturesClient object at 0x0000025A9CAB8130>>: BinanceFuturesClient.on_error() takes 2 positional arguments but 3 were given
+2022-03-04 20:10:22,637 INFO :: Binance Websocket connection opened
+2022-03-04 20:10:22,745 INFO :: Binance Websocket connection opened
+2022-03-04 20:11:02,672 ERROR :: Binance Websocket connection error : 
+2022-03-04 20:11:02,802 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x000002751AF68130>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-03-04 20:11:02,803 ERROR :: Binance Websocket connection error : BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-03-04 20:11:02,803 INFO :: Binance futures client successfully initialized
+2022-03-04 20:11:29,539 INFO :: Binance futures client successfully initialized
+2022-03-04 20:11:30,239 INFO :: Binance Websocket connection opened
+2022-03-04 20:12:30,261 ERROR :: Binance Websocket connection error : Connection to remote host was lost.
+2022-03-04 20:12:30,262 ERROR :: error from callback <bound method BinanceFuturesClient.on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x000001DA5F0A80D0>>: BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-03-04 20:12:30,262 ERROR :: Binance Websocket connection error : BinanceFuturesClient.on_close() takes 2 positional arguments but 4 were given
+2022-03-04 20:49:28,946 INFO :: Binance futures client successfully initialized
+2022-03-04 20:49:29,696 INFO :: Binance Websocket connection opened
+2022-03-04 21:02:40,151 INFO :: Binance futures client successfully initialized
+2022-03-04 21:02:40,760 INFO :: Binance Websocket connection opened
+2022-03-04 21:03:59,804 INFO :: Binance futures client successfully initialized
+2022-03-04 21:04:00,462 INFO :: Binance Websocket connection opened
+2022-03-04 21:26:36,747 INFO :: Binance futures client successfully initialized
+2022-03-04 21:26:37,477 INFO :: Binance Websocket connection opened
+2022-03-05 01:16:57,963 INFO :: Binance futures client successfully initialized
+2022-03-05 01:16:58,619 INFO :: Binance Websocket connection opened
+2022-03-05 01:18:12,024 INFO :: Binance futures client successfully initialized
+2022-03-05 01:18:12,695 INFO :: Binance Websocket connection opened
+2022-03-05 01:18:35,351 INFO :: Binance futures client successfully initialized
+2022-03-05 01:18:36,062 INFO :: Binance Websocket connection opened
+2022-03-05 01:19:17,954 INFO :: Binance futures client successfully initialized
+2022-03-05 01:19:18,624 INFO :: Binance Websocket connection opened
+2022-03-05 01:19:23,920 INFO :: Binance futures client successfully initialized
+2022-03-05 01:19:24,618 INFO :: Binance Websocket connection opened
+2022-03-05 01:27:08,463 INFO :: Binance futures client successfully initialized
+2022-03-05 01:27:09,445 INFO :: Binance Websocket connection opened
+2022-03-06 17:44:04,434 INFO :: Binance futures client successfully initialized
+2022-03-06 17:44:05,181 INFO :: Binance Websocket connection opened
+2022-03-06 17:46:49,059 INFO :: Binance futures client successfully initialized
+2022-03-06 17:46:49,768 INFO :: Binance Websocket connection opened
+2022-03-11 04:01:43,498 INFO :: Binance futures client successfully initialized
+2022-03-11 04:01:44,907 INFO :: Binance Websocket connection opened
+2022-03-11 04:02:41,616 INFO :: Binance futures client successfully initialized
+2022-03-11 04:02:42,295 INFO :: Binance Websocket connection opened
+2022-03-11 04:08:43,366 INFO :: Binance futures client successfully initialized
+2022-03-11 04:08:44,032 INFO :: Binance Websocket connection opened
+2022-03-11 04:25:01,244 INFO :: Binance futures client successfully initialized
+2022-03-11 04:25:01,949 INFO :: Binance Websocket connection opened
+2022-03-11 04:39:27,296 INFO :: Binance futures client successfully initialized
+2022-03-11 04:39:27,991 INFO :: Binance Websocket connection opened
+2022-03-11 04:39:51,995 INFO :: Binance futures client successfully initialized
+2022-03-11 04:39:52,548 INFO :: Binance Websocket connection opened
+2022-03-11 04:40:16,711 INFO :: Binance futures client successfully initialized
+2022-03-11 04:40:17,459 INFO :: Binance Websocket connection opened
+2022-03-11 04:43:06,994 INFO :: Binance futures client successfully initialized
+2022-03-11 04:43:07,676 INFO :: Binance Websocket connection opened
+2022-03-11 04:47:42,289 INFO :: Binance futures client successfully initialized
+2022-03-11 04:47:42,990 INFO :: Binance Websocket connection opened
+2022-03-11 04:53:26,767 INFO :: Binance futures client successfully initialized
+2022-03-11 04:53:27,510 INFO :: Binance Websocket connection opened
+2022-03-11 05:26:59,397 INFO :: Binance futures client successfully initialized
+2022-03-11 05:27:00,107 INFO :: Binance Websocket connection opened
+2022-03-11 05:27:42,314 INFO :: Binance futures client successfully initialized
+2022-03-11 05:27:43,021 INFO :: Binance Websocket connection opened
+2022-03-11 05:34:25,479 INFO :: Binance futures client successfully initialized
+2022-03-11 05:34:26,178 INFO :: Binance Websocket connection opened
+2022-03-11 05:35:31,418 INFO :: Binance futures client successfully initialized
+2022-03-11 05:35:32,131 INFO :: Binance Websocket connection opened
+2022-03-11 05:38:56,231 INFO :: Binance futures client successfully initialized
+2022-03-11 05:38:56,919 INFO :: Binance Websocket connection opened
+2022-03-11 05:43:17,157 INFO :: Binance futures client successfully initialized
+2022-03-11 05:43:17,859 INFO :: Binance Websocket connection opened
+2022-03-11 05:50:23,126 INFO :: Binance futures client successfully initialized
+2022-03-11 05:50:23,816 INFO :: Binance Websocket connection opened
+2022-03-11 05:50:50,419 INFO :: Binance futures client successfully initialized
+2022-03-11 05:50:51,129 INFO :: Binance Websocket connection opened
+2022-03-11 05:59:42,995 INFO :: Binance futures client successfully initialized
+2022-03-11 05:59:43,723 INFO :: Binance Websocket connection opened
+2022-03-11 06:21:24,250 INFO :: Binance futures client successfully initialized
+2022-03-11 06:21:24,967 INFO :: Binance Websocket connection opened
+2022-03-11 06:24:55,851 INFO :: Binance futures client successfully initialized
+2022-03-11 06:24:56,511 INFO :: Binance Websocket connection opened
+2022-03-12 00:34:53,744 INFO :: Binance futures client successfully initialized
+2022-03-12 00:34:54,384 INFO :: Binance Websocket connection opened
+2022-03-12 00:39:24,741 INFO :: Binance futures client successfully initialized
+2022-03-12 00:39:25,505 INFO :: Binance Websocket connection opened
+2022-03-12 00:39:50,378 INFO :: Binance futures client successfully initialized
+2022-03-12 00:39:51,041 INFO :: Binance Websocket connection opened
+2022-03-12 01:07:41,534 INFO :: Binance futures client successfully initialized
+2022-03-12 01:07:42,139 INFO :: Binance Websocket connection opened
+2022-03-12 01:16:16,805 INFO :: Binance futures client successfully initialized
+2022-03-12 01:16:17,492 INFO :: Binance Websocket connection opened
+2022-03-12 01:20:23,674 INFO :: Binance futures client successfully initialized
+2022-03-12 01:20:24,368 INFO :: Binance Websocket connection opened
+2022-03-12 01:21:03,992 INFO :: Binance futures client successfully initialized
+2022-03-12 01:21:04,672 INFO :: Binance Websocket connection opened
+2022-03-12 01:21:26,729 INFO :: Binance futures client successfully initialized
+2022-03-12 01:21:27,495 INFO :: Binance Websocket connection opened
+2022-03-12 01:22:44,991 INFO :: Binance futures client successfully initialized
+2022-03-12 01:22:45,763 INFO :: Binance Websocket connection opened
+2022-03-12 01:30:52,379 INFO :: Binance futures client successfully initialized
+2022-03-12 01:30:53,400 INFO :: Binance Websocket connection opened
+2022-03-12 01:31:40,385 INFO :: Binance futures client successfully initialized
+2022-03-12 01:31:41,062 INFO :: Binance Websocket connection opened
+2022-03-12 02:33:54,158 INFO :: Binance futures client successfully initialized
+2022-03-12 02:33:55,267 INFO :: Binance Websocket connection opened
+2022-03-12 02:49:24,666 INFO :: Binance futures client successfully initialized
+2022-03-12 02:49:25,350 INFO :: Binance Websocket connection opened
+2022-03-12 02:49:53,563 INFO :: Binance futures client successfully initialized
+2022-03-12 02:49:54,848 INFO :: Binance Websocket connection opened
+2022-03-13 01:49:06,089 INFO :: Binance Futures Client successfully initialized
+2022-03-13 01:49:06,950 INFO :: Binance connection opened
+2022-03-13 01:50:01,172 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 02:41:32,888 ERROR :: Binance connection error: Connection to remote host was lost.
+2022-03-13 02:41:32,889 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000014E2A3D7850>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-13 02:41:32,889 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-13 02:41:35,505 INFO :: Binance connection opened
+2022-03-13 02:45:00,102 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 02:46:01,925 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:10:38,770 INFO :: Binance Futures Client successfully initialized
+2022-03-13 04:10:39,549 INFO :: Binance connection opened
+2022-03-13 04:12:07,667 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:12:29,369 INFO :: Binance Futures Client successfully initialized
+2022-03-13 04:12:30,060 INFO :: Binance connection opened
+2022-03-13 04:13:02,294 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:15:01,895 INFO :: Binance New candle for BTCUSDT 15m
+2022-03-13 04:17:03,694 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:18:01,726 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:18:59,901 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:19:59,944 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:21:00,332 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 04:22:01,893 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 06:49:13,642 INFO :: Binance Futures Client successfully initialized
+2022-03-13 06:49:14,392 INFO :: Binance connection opened
+2022-03-13 06:49:49,382 INFO :: Binance Futures current USDT balance = 100000.0, trade size = 0.026
+2022-03-13 06:49:49,383 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 06:49:49,849 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 06:49:52,310 INFO :: Binance order status: filled
+2022-03-13 06:50:02,162 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 06:50:59,984 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 06:51:16,834 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 06:51:17,324 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 06:51:17,787 INFO :: Binance Futures current USDT balance = 100032.62796472, trade size = 0.026
+2022-03-13 06:51:17,787 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 06:51:18,257 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 06:51:20,731 INFO :: Binance order status: filled
+2022-03-13 06:51:20,747 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 06:51:20,949 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 06:52:02,001 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:00:02,893 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:00:03,519 INFO :: Binance Futures current USDT balance = 99954.1246848, trade size = 0.026
+2022-03-13 07:00:03,519 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:00:04,023 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:00:06,252 INFO :: Binance order status: filled
+2022-03-13 07:01:02,054 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:02:02,066 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:02:49,624 INFO :: Binance Futures current USDT balance = 99953.71783888, trade size = 0.026
+2022-03-13 07:02:49,624 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:02:50,075 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:02:52,297 INFO :: Binance order status: filled
+2022-03-13 07:03:00,703 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:03:09,171 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:03:09,647 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:03:09,859 INFO :: Binance Futures current USDT balance = 99951.23061024, trade size = 0.026
+2022-03-13 07:03:09,859 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:03:10,318 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:03:12,785 INFO :: Binance order status: filled
+2022-03-13 07:04:01,007 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:04:39,090 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:04:39,671 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:04:40,170 INFO :: Binance Futures current USDT balance = 99949.35433064, trade size = 0.026
+2022-03-13 07:04:40,170 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:04:40,640 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:04:43,183 INFO :: Binance order status: filled
+2022-03-13 07:05:01,988 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:06:01,140 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:06:06,803 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:06:07,322 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:06:07,816 INFO :: Binance Futures current USDT balance = 99947.47881648, trade size = 0.026
+2022-03-13 07:06:07,817 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:06:08,307 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:06:10,545 INFO :: Binance order status: filled
+2022-03-13 07:07:01,133 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:07:36,865 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:07:37,376 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:07:37,861 INFO :: Binance Futures current USDT balance = 99946.39116309, trade size = 0.026
+2022-03-13 07:07:37,861 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:07:38,304 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:07:40,560 INFO :: Binance order status: filled
+2022-03-13 07:08:00,806 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:08:17,691 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:08:18,163 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:09:01,026 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:09:37,905 INFO :: Binance Futures current USDT balance = 99944.42911765, trade size = 0.026
+2022-03-13 07:09:37,906 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:09:38,389 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:09:40,884 INFO :: Binance order status: filled
+2022-03-13 07:10:11,275 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:11:00,354 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:12:01,140 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:13:02,000 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:14:01,326 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:14:59,072 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:14:59,664 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:15:00,132 INFO :: Binance Futures current USDT balance = 99942.37613877, trade size = 0.026
+2022-03-13 07:15:00,132 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:15:00,613 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:15:00,618 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:15:03,094 INFO :: Binance order status: filled
+2022-03-13 07:16:00,958 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:16:09,121 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:16:09,668 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:16:09,899 INFO :: Binance Futures current USDT balance = 99940.25376709, trade size = 0.026
+2022-03-13 07:16:09,900 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:16:10,110 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:16:12,583 INFO :: Binance order status: filled
+2022-03-13 07:16:53,129 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:16:53,600 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:16:54,061 INFO :: Binance Futures current USDT balance = 99938.14338245, trade size = 0.026
+2022-03-13 07:16:54,062 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:16:54,525 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:16:56,733 INFO :: Binance order status: filled
+2022-03-13 07:16:57,273 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:16:57,489 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:16:57,959 INFO :: Binance Futures current USDT balance = 99889.71282365, trade size = 0.027
+2022-03-13 07:16:57,959 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:16:58,438 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:16:59,608 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:17:00,647 INFO :: Binance order status: filled
+2022-03-13 07:17:00,728 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:17:00,928 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:18:00,931 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:18:01,457 INFO :: Binance Futures current USDT balance = 99884.57980545, trade size = 0.026
+2022-03-13 07:18:01,457 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:18:01,913 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:18:04,410 INFO :: Binance order status: filled
+2022-03-13 07:19:00,961 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:20:02,949 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:20:53,043 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:20:53,570 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:20:54,066 INFO :: Binance Futures current USDT balance = 99883.13707377, trade size = 0.026
+2022-03-13 07:20:54,067 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:20:54,547 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:20:57,023 INFO :: Binance order status: filled
+2022-03-13 07:21:02,016 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:21:27,146 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:21:27,639 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:22:02,071 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:22:41,553 INFO :: Binance Futures current USDT balance = 99881.69429529, trade size = 0.026
+2022-03-13 07:22:41,553 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:22:42,028 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:22:44,231 INFO :: Binance order status: filled
+2022-03-13 07:23:01,985 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:24:01,304 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:25:03,382 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:26:03,130 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:26:07,155 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:26:07,713 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:26:08,167 INFO :: Binance Futures current USDT balance = 99879.87040153, trade size = 0.026
+2022-03-13 07:26:08,167 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:26:08,663 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:26:10,884 INFO :: Binance order status: filled
+2022-03-13 07:26:30,473 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:26:30,935 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:26:31,420 INFO :: Binance Futures current USDT balance = 99878.04633617, trade size = 0.026
+2022-03-13 07:26:31,420 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:26:31,910 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:26:34,129 INFO :: Binance order status: filled
+2022-03-13 07:27:00,305 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:28:02,127 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:29:01,988 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:30:02,049 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:30:29,138 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:30:29,682 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:30:30,168 INFO :: Binance Futures current USDT balance = 99875.64933273, trade size = 0.026
+2022-03-13 07:30:30,169 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:30:30,664 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:30:33,129 INFO :: Binance order status: filled
+2022-03-13 07:30:36,695 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:30:36,916 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:30:37,403 INFO :: Binance Futures current USDT balance = 99873.25223673, trade size = 0.026
+2022-03-13 07:30:37,404 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:30:37,863 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:30:40,319 INFO :: Binance order status: filled
+2022-03-13 07:31:04,822 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:32:01,006 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:32:15,020 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:32:15,581 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:32:16,064 INFO :: Binance Futures current USDT balance = 99871.08327545, trade size = 0.026
+2022-03-13 07:32:16,064 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:32:16,527 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:32:18,769 INFO :: Binance order status: filled
+2022-03-13 07:33:02,063 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:34:01,096 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:34:02,833 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:34:03,405 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:04,215 INFO :: Binance Futures current USDT balance = 99870.75498073, trade size = 0.026
+2022-03-13 07:34:04,215 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:04,438 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:06,912 INFO :: Binance order status: filled
+2022-03-13 07:34:12,677 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:34:13,140 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:19,190 INFO :: Binance Futures current USDT balance = 99869.63175057, trade size = 0.026
+2022-03-13 07:34:19,190 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:19,660 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:22,166 INFO :: Binance order status: filled
+2022-03-13 07:34:22,813 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:34:23,318 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:23,805 INFO :: Binance Futures current USDT balance = 99871.89896205, trade size = 0.025
+2022-03-13 07:34:23,806 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:24,120 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:26,329 INFO :: Binance order status: filled
+2022-03-13 07:34:26,383 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:34:26,868 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:27,077 INFO :: Binance Futures current USDT balance = 99874.23483842, trade size = 0.025
+2022-03-13 07:34:27,078 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:27,296 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:29,769 INFO :: Binance order status: filled
+2022-03-13 07:34:32,943 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:34:33,406 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:33,897 INFO :: Binance Futures current USDT balance = 99866.83111273, trade size = 0.026
+2022-03-13 07:34:33,897 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:34,102 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:36,332 INFO :: Binance order status: filled
+2022-03-13 07:34:48,900 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:34:49,371 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:34:49,849 INFO :: Binance Futures current USDT balance = 99861.86542282, trade size = 0.026
+2022-03-13 07:34:49,850 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:34:50,057 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:34:52,545 INFO :: Binance order status: filled
+2022-03-13 07:35:00,570 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:35:02,823 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:35:03,364 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:36:02,136 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:36:31,445 INFO :: Binance Futures current USDT balance = 99858.15262743, trade size = 0.026
+2022-03-13 07:36:31,446 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:36:31,944 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:36:34,399 INFO :: Binance order status: filled
+2022-03-13 07:36:43,645 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:36:44,130 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:36:44,607 INFO :: Binance Futures current USDT balance = 99854.2259458, trade size = 0.026
+2022-03-13 07:36:44,607 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:36:44,847 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:36:47,070 INFO :: Binance order status: filled
+2022-03-13 07:36:48,968 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:36:49,433 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:36:49,647 INFO :: Binance Futures current USDT balance = 99851.863103, trade size = 0.026
+2022-03-13 07:36:49,647 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:36:49,859 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:36:52,073 INFO :: Binance order status: filled
+2022-03-13 07:36:52,867 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:36:53,355 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:36:53,822 INFO :: Binance Futures current USDT balance = 99848.54177926, trade size = 0.026
+2022-03-13 07:36:53,823 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:36:54,303 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:36:56,793 INFO :: Binance order status: filled
+2022-03-13 07:37:01,337 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:37:06,910 INFO :: Take profit for BTCUSDT 1m
+2022-03-13 07:37:07,404 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:38:02,145 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:39:02,011 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:39:02,735 INFO :: Binance Futures current USDT balance = 99847.65437508, trade size = 0.026
+2022-03-13 07:39:02,735 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:39:03,198 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:39:05,701 INFO :: Binance order status: filled
+2022-03-13 07:40:00,983 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:41:02,131 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:42:03,722 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:43:03,277 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:44:05,017 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:45:03,368 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:46:02,067 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:47:21,755 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:47:55,112 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:47:55,666 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:47:56,130 INFO :: Binance Futures current USDT balance = 99844.60757581, trade size = 0.026
+2022-03-13 07:47:56,131 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:47:56,364 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:47:58,571 INFO :: Binance order status: filled
+2022-03-13 07:47:59,351 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:47:59,828 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:48:00,281 INFO :: Binance Futures current USDT balance = 99841.5611395, trade size = 0.026
+2022-03-13 07:48:00,281 INFO :: Short signal on BTCUSDT 1m
+2022-03-13 07:48:00,519 INFO :: Sell order placed on Binance | Status: new
+2022-03-13 07:48:00,528 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:48:02,985 INFO :: Binance order status: filled
+2022-03-13 07:48:25,158 INFO :: Stop loss for BTCUSDT 1m
+2022-03-13 07:48:25,644 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-13 07:48:25,879 INFO :: Binance Futures current USDT balance = 99840.60989623, trade size = 0.026
+2022-03-13 07:48:25,879 INFO :: Long signal on BTCUSDT 1m
+2022-03-13 07:48:26,362 INFO :: Buy order placed on Binance | Status: new
+2022-03-13 07:48:28,855 INFO :: Binance order status: filled
+2022-03-13 07:49:01,150 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:50:02,085 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:51:01,338 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:52:02,059 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-13 07:53:02,044 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 02:25:42,720 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:25:43,297 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-03-14 02:25:43,313 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:25:43,849 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1647204943308&signature=cec40419e787f78ff46a1c7dfedcaad6f4a16fa2bf5c3dc122785766f6ee8aa6 HTTP/1.1" 200 None
+2022-03-14 02:25:43,854 INFO :: Binance Futures Client successfully initialized
+2022-03-14 02:25:44,619 INFO :: Binance connection opened
+2022-03-14 02:25:44,619 ERROR :: error from callback <bound method BinanceClient._on_open of <connectors.binance.BinanceClient object at 0x0000022C6C36E590>>: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:25:44,620 ERROR :: Binance connection error: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:29:13,500 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x0000022C6C36E590>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:29:13,500 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:29:24,311 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:29:24,896 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-03-14 02:29:24,909 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:29:25,177 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1647205164906&signature=485ee83f7b5174f2c4c39daa0cb85aeea21f089ec7fb57939c51d0cc665f7cb3 HTTP/1.1" 200 None
+2022-03-14 02:29:25,183 INFO :: Binance Futures Client successfully initialized
+2022-03-14 02:29:25,886 INFO :: Binance connection opened
+2022-03-14 02:29:25,886 ERROR :: error from callback <bound method BinanceClient._on_open of <connectors.binance.BinanceClient object at 0x0000015B31ABA590>>: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:29:25,886 ERROR :: Binance connection error: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:31:45,189 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x0000015B31ABA590>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:31:45,190 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:36:36,637 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:36:37,203 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-03-14 02:36:37,217 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:36:37,474 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1647205597214&signature=b613647b936fe15487daa5c76434d6c31f2c797d431c56730c7da782a0641d05 HTTP/1.1" 200 None
+2022-03-14 02:36:37,481 INFO :: Binance Futures Client successfully initialized
+2022-03-14 02:36:38,166 INFO :: Binance connection opened
+2022-03-14 02:36:38,166 ERROR :: error from callback <bound method BinanceClient._on_open of <connectors.binance.BinanceClient object at 0x00000213FE90A5F0>>: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:36:38,166 ERROR :: Binance connection error: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:41:39,599 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x00000213FE90A5F0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:41:39,600 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:44:11,987 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:44:12,588 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-03-14 02:44:12,602 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-03-14 02:44:13,113 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1647206052599&signature=ba07e446eae5f06ced1ccb5f03d7acd8dad4a57149e0e437c773b075f6319ec2 HTTP/1.1" 200 None
+2022-03-14 02:44:13,120 INFO :: Binance Futures Client successfully initialized
+2022-03-14 02:44:13,850 INFO :: Binance connection opened
+2022-03-14 02:44:13,851 ERROR :: error from callback <bound method BinanceClient._on_open of <connectors.binance.BinanceClient object at 0x000001FDA771A5F0>>: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:44:13,851 ERROR :: Binance connection error: 'Contract' object has no attribute 'symbol'
+2022-03-14 02:45:05,850 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x000001FDA771A5F0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 02:45:05,850 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-14 04:24:19,086 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:24:19,780 INFO :: Binance connection opened
+2022-03-14 04:24:44,616 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:24:45,228 INFO :: Binance connection opened
+2022-03-14 04:25:59,057 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:25:59,667 INFO :: Binance connection opened
+2022-03-14 04:26:54,714 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:26:55,306 INFO :: Binance connection opened
+2022-03-14 04:27:38,540 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:27:39,143 INFO :: Binance connection opened
+2022-03-14 04:28:21,649 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:28:22,262 INFO :: Binance connection opened
+2022-03-14 04:32:59,011 INFO :: Binance Futures Client successfully initialized
+2022-03-14 04:32:59,693 INFO :: Binance connection opened
+2022-03-14 04:35:00,401 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:35:04,861 INFO :: Binance Futures current USDT balance = 99839.79722326, trade size = 0.026
+2022-03-14 04:35:04,861 INFO :: Long signal on BTCUSDT 1m
+2022-03-14 04:35:05,366 INFO :: Buy order placed on Binance | Status: new
+2022-03-14 04:35:08,076 INFO :: Binance order status: filled
+2022-03-14 04:35:10,335 INFO :: Take profit for BTCUSDT 1m
+2022-03-14 04:35:10,805 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:35:11,275 INFO :: Binance Futures current USDT balance = 99846.79829302, trade size = 0.025
+2022-03-14 04:35:11,276 INFO :: Long signal on BTCUSDT 1m
+2022-03-14 04:35:11,779 INFO :: Buy order placed on Binance | Status: new
+2022-03-14 04:35:14,036 INFO :: Binance order status: filled
+2022-03-14 04:36:00,328 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:37:07,101 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:38:00,481 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:39:01,505 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:40:00,495 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:41:00,831 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:41:25,152 INFO :: Binance Futures current USDT balance = 99846.40629302, trade size = 0.026
+2022-03-14 04:41:25,152 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:25,617 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:28,119 INFO :: Binance order status: filled
+2022-03-14 04:41:28,654 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:29,134 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:29,615 INFO :: Binance Futures current USDT balance = 99802.45821933, trade size = 0.026
+2022-03-14 04:41:29,616 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:30,096 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:32,320 INFO :: Binance order status: filled
+2022-03-14 04:41:35,974 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:36,179 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:36,410 INFO :: Binance Futures current USDT balance = 99737.43531208, trade size = 0.026
+2022-03-14 04:41:36,410 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:36,612 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:39,070 INFO :: Binance order status: filled
+2022-03-14 04:41:39,997 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:40,468 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:40,673 INFO :: Binance Futures current USDT balance = 99684.0545151, trade size = 0.027
+2022-03-14 04:41:40,674 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:40,880 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:43,333 INFO :: Binance order status: filled
+2022-03-14 04:41:44,748 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:45,223 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:45,438 INFO :: Binance Futures current USDT balance = 99634.54931162, trade size = 0.027
+2022-03-14 04:41:45,439 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:45,654 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:47,875 INFO :: Binance order status: filled
+2022-03-14 04:41:48,006 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:48,485 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:48,699 INFO :: Binance Futures current USDT balance = 99585.02703252, trade size = 0.027
+2022-03-14 04:41:48,700 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:49,167 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:51,383 INFO :: Binance order status: filled
+2022-03-14 04:41:51,390 INFO :: Take profit for BTCUSDT 1m
+2022-03-14 04:41:51,601 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:51,816 INFO :: Binance Futures current USDT balance = 99576.53571167, trade size = 0.029
+2022-03-14 04:41:51,817 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:52,284 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:54,760 INFO :: Binance order status: filled
+2022-03-14 04:41:55,204 INFO :: Stop loss for BTCUSDT 1m
+2022-03-14 04:41:55,420 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-14 04:41:55,896 INFO :: Binance Futures current USDT balance = 99414.50732353, trade size = 0.03
+2022-03-14 04:41:55,897 INFO :: Short signal on BTCUSDT 1m
+2022-03-14 04:41:56,105 INFO :: Sell order placed on Binance | Status: new
+2022-03-14 04:41:58,582 INFO :: Binance order status: filled
+2022-03-14 04:43:00,311 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:43:07,134 INFO :: Binance Futures current USDT balance = 99281.08542721, trade size = 2.632
+2022-03-14 04:43:07,134 INFO :: Long signal on BTCUSDT 1m
+2022-03-14 04:43:07,626 INFO :: Buy order placed on Binance | Status: new
+2022-03-14 04:43:10,110 INFO :: Binance order status: filled
+2022-03-14 04:44:00,297 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:45:00,140 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-14 04:46:00,697 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 15:55:01,703 INFO :: Binance Futures Client successfully initialized
+2022-03-15 15:55:02,607 INFO :: Binance connection opened
+2022-03-15 15:56:39,539 INFO :: Binance Futures current USDT balance = 99467.16736407, trade size = 0.026
+2022-03-15 15:56:39,539 INFO :: Long signal on BTCUSDT 1m
+2022-03-15 15:56:40,018 INFO :: Buy order placed on Binance | Status: new
+2022-03-15 15:56:42,434 INFO :: Binance order status: filled
+2022-03-15 15:57:01,337 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 15:58:03,178 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 15:59:02,520 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:00:01,669 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:01:03,348 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:02:01,581 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:03:03,249 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:04:00,768 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:05:01,287 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:05:51,505 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:05:52,046 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:05:52,512 INFO :: Binance Futures current USDT balance = 99457.75683583, trade size = 0.026
+2022-03-15 16:05:52,512 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:05:53,028 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:05:53,029 WARNING :: Binance BTCUSDT: 2043 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,030 WARNING :: Binance BTCUSDT: 2044 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,030 WARNING :: Binance BTCUSDT: 2044 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,031 WARNING :: Binance BTCUSDT: 2045 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,031 WARNING :: Binance BTCUSDT: 2045 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,031 WARNING :: Binance BTCUSDT: 2045 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,032 WARNING :: Binance BTCUSDT: 2046 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,032 WARNING :: Binance BTCUSDT: 2046 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,033 WARNING :: Binance BTCUSDT: 2047 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,033 WARNING :: Binance BTCUSDT: 2047 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,034 WARNING :: Binance BTCUSDT: 2048 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,034 WARNING :: Binance BTCUSDT: 2048 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,034 WARNING :: Binance BTCUSDT: 2048 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,035 WARNING :: Binance BTCUSDT: 2049 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,035 WARNING :: Binance BTCUSDT: 2049 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:53,037 WARNING :: Binance BTCUSDT: 2051 milliseconds of difference between the current time and the trade time
+2022-03-15 16:05:55,494 INFO :: Binance order status: filled
+2022-03-15 16:05:59,385 INFO :: Take profit for BTCUSDT 1m
+2022-03-15 16:05:59,871 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:06:00,341 INFO :: Binance Futures current USDT balance = 99453.23719613, trade size = 0.026
+2022-03-15 16:06:00,343 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:06:00,559 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:06:00,590 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:06:02,781 INFO :: Binance order status: filled
+2022-03-15 16:06:02,812 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:06:03,033 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:06:05,113 INFO :: Binance Futures current USDT balance = 99440.93499346, trade size = 0.027
+2022-03-15 16:06:05,114 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:06:05,340 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:06:07,581 INFO :: Binance order status: filled
+2022-03-15 16:06:35,019 INFO :: Take profit for BTCUSDT 1m
+2022-03-15 16:06:35,483 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:06:35,965 INFO :: Binance Futures current USDT balance = 99439.88191462, trade size = 0.026
+2022-03-15 16:06:35,965 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:06:36,449 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:06:38,694 INFO :: Binance order status: filled
+2022-03-15 16:07:01,544 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:08:01,274 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:09:03,230 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:10:05,218 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:11:01,752 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:12:03,257 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:13:13,314 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:14:00,678 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:15:03,245 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:16:02,008 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:16:15,283 INFO :: Take profit for BTCUSDT 1m
+2022-03-15 16:16:15,862 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:16:16,337 INFO :: Binance Futures current USDT balance = 99459.86091366, trade size = 0.026
+2022-03-15 16:16:16,337 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:16:16,609 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:16:18,818 INFO :: Binance order status: filled
+2022-03-15 16:16:18,883 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:16:19,344 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:16:19,883 INFO :: Binance Futures current USDT balance = 99404.86742862, trade size = 0.026
+2022-03-15 16:16:19,883 INFO :: Short signal on BTCUSDT 1m
+2022-03-15 16:16:20,230 INFO :: Sell order placed on Binance | Status: new
+2022-03-15 16:16:22,714 INFO :: Binance order status: filled
+2022-03-15 16:17:01,103 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:18:02,125 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:19:02,216 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:20:01,270 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:21:01,107 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:22:00,638 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:23:02,665 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:24:03,149 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:24:13,217 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:24:13,823 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:24:14,114 INFO :: Binance Futures current USDT balance = 99394.11025106, trade size = 0.026
+2022-03-15 16:24:14,115 INFO :: Long signal on BTCUSDT 1m
+2022-03-15 16:24:14,387 INFO :: Buy order placed on Binance | Status: new
+2022-03-15 16:24:16,659 INFO :: Binance order status: filled
+2022-03-15 16:24:17,225 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:24:17,467 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:24:27,921 INFO :: Binance Futures current USDT balance = 99381.55584403, trade size = 0.026
+2022-03-15 16:24:27,922 INFO :: Long signal on BTCUSDT 1m
+2022-03-15 16:24:28,195 INFO :: Buy order placed on Binance | Status: new
+2022-03-15 16:24:30,720 INFO :: Binance order status: filled
+2022-03-15 16:24:31,218 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:24:31,718 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-15 16:25:00,514 INFO :: Binance Futures current USDT balance = 99370.24098248, trade size = 0.026
+2022-03-15 16:25:00,515 INFO :: Long signal on BTCUSDT 1m
+2022-03-15 16:25:01,055 INFO :: Buy order placed on Binance | Status: new
+2022-03-15 16:25:01,062 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-15 16:25:03,348 INFO :: Binance order status: filled
+2022-03-15 16:25:03,447 INFO :: Stop loss for BTCUSDT 1m
+2022-03-15 16:25:03,743 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-16 20:37:52,153 ERROR :: Connection error while making GET request to /fapi/v1/exchangeInfo: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/exchangeInfo (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000010ABFA49FC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-03-16 20:37:52,160 ERROR :: Connection error while making GET request to /fapi/v1/account: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/account?timestamp=1647443272154&signature=7e59f6906c5f1faad1c66d3c2870f7774122bc231ab20f8910cbb2f255088b53 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000010ABFA4A2C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-03-16 20:37:52,162 INFO :: Binance Futures Client successfully initialized
+2022-03-16 20:37:52,162 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:37:52,598 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:52,598 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:54,605 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:37:54,605 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:54,606 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:56,610 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:37:56,610 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:56,610 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:58,613 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:37:58,613 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:37:58,613 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:00,629 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:00,629 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:00,629 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:02,639 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:02,639 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:02,639 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:04,647 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:04,647 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:04,647 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:06,662 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:06,662 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:06,662 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:08,664 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:08,665 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:08,665 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:10,671 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:10,671 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:10,671 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:12,682 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:12,682 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:12,682 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:14,697 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:14,697 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:14,697 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:16,710 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:16,710 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:16,710 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:18,719 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:18,719 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:18,719 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:20,733 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:20,733 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:20,733 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:22,741 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:22,741 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:22,741 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:24,743 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:24,744 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:24,744 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:26,758 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:26,758 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:26,758 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:28,764 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:28,764 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:28,764 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:30,775 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:30,775 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:30,775 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:32,778 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:32,778 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:32,778 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:34,782 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:34,782 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:34,782 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:36,799 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:36,799 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:36,799 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:38,801 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:38,802 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:38,802 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:40,805 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:40,805 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:40,805 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:42,818 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:42,818 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:42,818 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:44,830 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:44,831 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:44,831 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:46,840 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:46,841 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:46,841 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:48,845 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:48,846 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:48,846 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:50,852 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:50,853 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:50,853 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:52,861 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:52,861 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:52,861 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:54,868 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:54,868 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:54,868 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:56,882 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:56,883 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:56,883 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:58,896 ERROR :: Binance connection error: [Errno 11001] getaddrinfo failed
+2022-03-16 20:38:58,896 ERROR :: error from callback <bound method BinanceFuturesClient._on_close of <connectors.binance_futures.BinanceFuturesClient object at 0x0000010ABFA48F70>>: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:38:58,897 ERROR :: Binance connection error: BinanceFuturesClient._on_close() takes 2 positional arguments but 4 were given
+2022-03-16 20:39:03,595 INFO :: Binance connection opened
+2022-03-16 20:39:13,951 INFO :: Binance Futures Client successfully initialized
+2022-03-16 20:39:15,618 INFO :: Binance connection opened
+2022-03-16 20:41:00,614 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:41:05,047 INFO :: Binance Futures current USDT balance = 99228.86776701, trade size = 0.243
+2022-03-16 20:41:05,047 INFO :: Long signal on BTCUSDT 1m
+2022-03-16 20:41:05,481 INFO :: Buy order placed on Binance | Status: new
+2022-03-16 20:41:08,255 INFO :: Binance order status: filled
+2022-03-16 20:42:01,819 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:43:02,213 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:44:02,260 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:45:01,809 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:46:02,216 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:46:35,391 INFO :: Binance Futures current USDT balance = 99224.90351361, trade size = 0.244
+2022-03-16 20:46:35,391 INFO :: Short signal on BTCUSDT 1m
+2022-03-16 20:46:36,423 INFO :: Sell order placed on Binance | Status: new
+2022-03-16 20:46:36,426 WARNING :: Binance BTCUSDT: 2675 milliseconds of difference between the current time and the trade time
+2022-03-16 20:46:36,426 WARNING :: Binance BTCUSDT: 2562 milliseconds of difference between the current time and the trade time
+2022-03-16 20:46:36,427 WARNING :: Binance BTCUSDT: 2327 milliseconds of difference between the current time and the trade time
+2022-03-16 20:46:40,316 INFO :: Binance order status: filled
+2022-03-16 20:47:00,004 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:47:47,090 INFO :: Binance Futures current USDT balance = 99207.46615345, trade size = 0.244
+2022-03-16 20:47:47,091 INFO :: Short signal on BTCUSDT 1m
+2022-03-16 20:47:47,736 INFO :: Sell order placed on Binance | Status: new
+2022-03-16 20:47:50,412 INFO :: Binance order status: filled
+2022-03-16 20:48:00,613 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:49:01,411 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:49:01,967 INFO :: Take profit for BTCUSDT 1m
+2022-03-16 20:49:02,505 INFO :: Exit order on BTCUSDT 1m placed successfully
+2022-03-16 20:49:20,155 INFO :: Binance Futures current USDT balance = 99195.30522134, trade size = 0.244
+2022-03-16 20:49:20,156 INFO :: Long signal on BTCUSDT 1m
+2022-03-16 20:49:20,583 INFO :: Buy order placed on Binance | Status: new
+2022-03-16 20:49:23,262 INFO :: Binance order status: filled
+2022-03-16 20:50:00,802 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:51:00,568 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:52:00,727 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:53:01,409 INFO :: Binance New candle for BTCUSDT 1m
+2022-03-16 20:54:01,436 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-16 16:49:23,899 INFO :: Binance Futures Client successfully initialized
+2023-01-16 16:49:25,411 INFO :: Binance connection opened
+2023-01-16 16:53:06,729 INFO :: Binance Futures Client successfully initialized
+2023-01-16 16:53:07,282 INFO :: Binance connection opened
+2023-01-16 16:55:02,866 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-16 16:56:02,701 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-16 16:56:08,517 INFO :: Binance Futures current USDT balance = 3000.0, trade size = 0.144
+2023-01-16 16:56:08,518 INFO :: Short signal on BTCUSDT 1m
+2023-01-16 16:56:08,789 INFO :: Sell order placed on Binance | Status: new
+2023-01-16 16:56:11,015 INFO :: Binance order status: filled
+2023-01-16 16:57:06,215 INFO :: Binance New candle for BTCUSDT 1m
